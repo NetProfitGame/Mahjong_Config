@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "withdrawalEnabled": true,
+  "forcedAdsEnabled": true,
+  "applicationVersion": "0.5.0.0"
+}
